@@ -1,0 +1,33 @@
+Vizija projekta - RuDok
+
+ 1. Namena
+
+  Ovaj program se koristi za rukovođenje dokumentima, obradu teksta i ubacivanje dodatnih elemenata uz tekst, čiji se produkt direktno prikazuje na ekranu kako će izgledati kada se bude odštampao u formalni spis.
+
+
+ 2. Rečnik pojmova
+
+ RuDok – softver koji se koristi za rukovođenje dokumentima
+ Instalacija – proces pripreme određenog softvera za njegovo korišćenje
+ Dodatni elementi – margine, tabele, slike, video zapisi
+ Softverski proizvod – Program koji je napravila neka softverska kompanija
+ Krajnji korisnik – osoba koja će koristiti naš program(alat)
+
+
+3. Ciljna grupa
+
+Ovaj proizvod je namenjen svim korisnicima (slobodnom tržištu) koji žele sortiraju, formatiraju i obrade određeni dokument. Ideja je da napravimo alat koji će krajnjim korisnicima omogućiti da manipulišu svojim dokumentom po volji.
+
+
+4. Koji problem rešavamo?
+
+Stvaranje ličnih pisama, planera, izveštaja, radne biografije i propratnih pisama, seminarskih i maturskih radova, anketa, kalendara i adresara, evidencija, faktura, sertifikata…
+
+
+5. Šta izdvaja naš program od ostalih i koje funkcije nudi?
+
+- Rukovanje dokumentima - Opis, definisanje, operativna upotreba i trajno čuvanje dokumenta proizvoljne strukture
+- Rukovanje kolekcijama dokumenata - Slobodno formiranje kolekcija arhitekture dokumenata u skladu sa modelom dokumenta
+- Rukovanje radnim prostorima alata - Slobodno formiranje radnih prostora koji sadrže kolekcije dokumenata
+- Umetanje slika, audio i video fajlova u dokument
+- Deljenje i štampanje - celih dokumenata, delova dokumenta ili delova stranica
